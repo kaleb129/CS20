@@ -42,7 +42,7 @@ public class printing
         System.out.println("Price per copy: $" + pricePerCopy);
         System.out.println("Total price: $" + totalPrice);
 
-        input.close();
+       
     }
 }  
 
