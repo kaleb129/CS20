@@ -46,4 +46,21 @@ package mastery;
 		
 	}
 
- 
+	//SCREEN DUMP
+	
+	//  Enter the year you were born :  
+	//	2009
+	//	Enter the month you were born:  
+	//	02
+	//	Enter the day you were born :  
+	//	21
+	//	Enter the current year : 
+	//	2026
+	//	Enter the current month : 
+	//	03
+	//	Enter the current day : 
+	//	10
+	//	You have been alive for 6224.0 days!
+	//	You have spent 49792.0 hours sleeping. 
+	
+

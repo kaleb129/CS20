@@ -34,3 +34,11 @@ public class exercise5
         System.out.println("Amount of pennies: " + pennies);
     }
 }
+//SCREEN DUMP
+
+//Enter the amount of change in cents:  46
+//The minimum number of coins is:4
+//Amount of quarters: 1
+//Amount of dimes: 2
+//Amount of nickels: 0
+//Amount of pennies: 1

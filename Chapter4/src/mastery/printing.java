@@ -45,4 +45,8 @@ public class printing
        
     }
 }  
+//SCREEN DUMP
 
+//Enter the number of copies to print: 90
+//Price per copy: $0.3
+//Total price: $27.0

@@ -61,5 +61,11 @@ package mastery;
 	}
 	
 	}
+	
+	
+	//SCREEN DUMP
+	
+//		Enter the percentage you achieved: 80
+//  	You got the letter grade: B
 
 
