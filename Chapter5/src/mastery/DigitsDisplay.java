@@ -1,3 +1,15 @@
+/*
+
+Program: DigitsDisplay.java          Last Date of this Revision: May 6, 2026
+
+Purpose:	Displays a integers ones spot, tens spot, hundreds spot, etc.
+Author: 	Kaleb Nieboer
+School:		CHHS
+Course: 	Computer Science 20
+ 
+
+*/
+
 package mastery;
 
 import java.util.Scanner;
@@ -23,4 +35,10 @@ public class DigitsDisplay
 	    }	    
 }
 
-
+// SCREEN DUMP
+/*
+Enter a non-negative integer: 900
+0
+0
+9
+*/

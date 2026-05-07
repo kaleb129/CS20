@@ -1,3 +1,19 @@
+/*
+
+Program: InvestmentGrowth.java          Last Date of this Revision: May 7, 2026
+
+Purpose: Shows how much money you will have made through an investment after a certain amount of years
+
+
+Author: Kaleb
+School: CHHS
+Course: Computer Programming 20
+ 
+
+*/
+
+
+
 package mastery;
 
 public class InvestmentGrowth 
@@ -19,11 +35,10 @@ public class InvestmentGrowth
 	        System.out.println("Years to reach your investment goal: " + years);
 	        System.out.println("Final balance: $" + (int)(balance * 100) / 100.0);
 	    }
-	
+	} 
 
-
-
-
-
-
-}
+//SCREEN DUMP
+/* 
+Years to reach your investment goal: 10
+Final balance: $5152.57
+*/
