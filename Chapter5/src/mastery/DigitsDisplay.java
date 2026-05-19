@@ -25,20 +25,24 @@ public class DigitsDisplay
 	        System.out.print("Enter a non-negative integer: ");
 	        int number = input.nextInt();
 
-	        while (number > 0) 
+	        if (number < 0) 
 	        {
-	            System.out.println(number % 10);
-	            number = number /  10;
+	            System.out.println("Error, enter a non-negative integer");
+	            return;
 	        }
-	    
+	        String digits = Integer.toString(number);
+	        	for (int i = 0; i < digits.length(); i++)
+	        	{
+	        		System.out.println(digits.charAt(i));
+	        	}
 	    
 	    }	    
 }
 
 // SCREEN DUMP
 /*
-Enter a non-negative integer: 900
-0
-0
+Enter a non-negative integer: 987
 9
+8
+7
 */
