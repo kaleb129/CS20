@@ -1,3 +1,16 @@
+/*
+
+Program: CountConsonants.java          Last Date of this Revision: june 4, 2026
+
+Purpose: counts the consonants in a given word
+
+
+Author: Kaleb
+School: CHHS
+Course: Computer Programming 20
+ 
+
+*/
 package mastery;
 
 
@@ -35,5 +48,9 @@ package mastery;
 	        System.out.println("The number of consonants in " + text + " is " + count);
 	    }
 	}
+/*
+Enter text: kaleb
+The number of consonants in kaleb is 3
 
+*/
 
