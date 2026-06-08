@@ -1,0 +1,23 @@
+package part4;
+import com.phidget22.*;
+public class Closing {
+	//Add Phidgets Library
+	
+	    public static void main(String[] args) throws Exception{
+
+	        //Create
+	        TemperatureSensor temperatureSensor = new TemperatureSensor();
+
+	        //Open
+	        temperatureSensor.open(1000);
+
+	        //Use your Phidgets
+	        System.out.println("Temperature: " + temperatureSensor.getTemperature() + " °C" );
+	        
+	        //Close your Phidgets
+	        temperatureSensor.close();
+	    }
+	}
+	  
+
+
